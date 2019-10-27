@@ -1,0 +1,8 @@
+C:\Users\genne\Desktop\JojoShop\JojoMarket\JojoMarket.DAL\bin\Debug\netcoreapp2.2\JojoMarket.DAL.deps.json
+C:\Users\genne\Desktop\JojoShop\JojoMarket\JojoMarket.DAL\bin\Debug\netcoreapp2.2\JojoMarket.DAL.dll
+C:\Users\genne\Desktop\JojoShop\JojoMarket\JojoMarket.DAL\obj\Debug\netcoreapp2.2\JojoMarket.DAL.csprojAssemblyReference.cache
+C:\Users\genne\Desktop\JojoShop\JojoMarket\JojoMarket.DAL\obj\Debug\netcoreapp2.2\JojoMarket.DAL.csproj.CoreCompileInputs.cache
+C:\Users\genne\Desktop\JojoShop\JojoMarket\JojoMarket.DAL\obj\Debug\netcoreapp2.2\JojoMarket.DAL.AssemblyInfoInputs.cache
+C:\Users\genne\Desktop\JojoShop\JojoMarket\JojoMarket.DAL\obj\Debug\netcoreapp2.2\JojoMarket.DAL.AssemblyInfo.cs
+C:\Users\genne\Desktop\JojoShop\JojoMarket\JojoMarket.DAL\bin\Debug\netcoreapp2.2\JojoMarket.DAL.runtimeconfig.json
+C:\Users\genne\Desktop\JojoShop\JojoMarket\JojoMarket.DAL\bin\Debug\netcoreapp2.2\JojoMarket.DAL.runtimeconfig.dev.json

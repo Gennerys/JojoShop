@@ -1,0 +1,12 @@
+C:\Users\genne\Desktop\JojoShop\JojoMarket\JojoMarket.Interfaces\bin\Debug\netcoreapp2.2\JojoMarket.Interfaces.deps.json
+C:\Users\genne\Desktop\JojoShop\JojoMarket\JojoMarket.Interfaces\bin\Debug\netcoreapp2.2\JojoMarket.Interfaces.dll
+C:\Users\genne\Desktop\JojoShop\JojoMarket\JojoMarket.Interfaces\bin\Debug\netcoreapp2.2\JojoMarket.Interfaces.pdb
+C:\Users\genne\Desktop\JojoShop\JojoMarket\JojoMarket.Interfaces\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+C:\Users\genne\Desktop\JojoShop\JojoMarket\JojoMarket.Interfaces\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+C:\Users\genne\Desktop\JojoShop\JojoMarket\JojoMarket.Interfaces\obj\Debug\netcoreapp2.2\JojoMarket.Interfaces.csprojAssemblyReference.cache
+C:\Users\genne\Desktop\JojoShop\JojoMarket\JojoMarket.Interfaces\obj\Debug\netcoreapp2.2\JojoMarket.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\genne\Desktop\JojoShop\JojoMarket\JojoMarket.Interfaces\obj\Debug\netcoreapp2.2\JojoMarket.Interfaces.AssemblyInfoInputs.cache
+C:\Users\genne\Desktop\JojoShop\JojoMarket\JojoMarket.Interfaces\obj\Debug\netcoreapp2.2\JojoMarket.Interfaces.AssemblyInfo.cs
+C:\Users\genne\Desktop\JojoShop\JojoMarket\JojoMarket.Interfaces\obj\Debug\netcoreapp2.2\JojoMarket.Interfaces.csproj.CopyComplete
+C:\Users\genne\Desktop\JojoShop\JojoMarket\JojoMarket.Interfaces\obj\Debug\netcoreapp2.2\JojoMarket.Interfaces.dll
+C:\Users\genne\Desktop\JojoShop\JojoMarket\JojoMarket.Interfaces\obj\Debug\netcoreapp2.2\JojoMarket.Interfaces.pdb

@@ -6,10 +6,13 @@ using System.Linq;
 
 namespace JojoMarket.DAL.Entities
 {
-    class Product
+    public class Product
     {
         [Key]
         public int Id { get; set; }
+
+        [Required]
+        public int ItemCode { get; set; }
 
         [Required]
         [StringLength(150)]
@@ -27,6 +30,11 @@ namespace JojoMarket.DAL.Entities
         [Range(0.01, double.MaxValue,
             ErrorMessage = "Please enter a positive price")]
         public decimal Price { get; set; }
+
+        [Required]
+        public DateTime ExpirationDateStart { get; set; }
+        [Required]
+        public DateTime ExpirationDateEnd { get; set; }
 
         [Required]
         [StringLength(150)]
